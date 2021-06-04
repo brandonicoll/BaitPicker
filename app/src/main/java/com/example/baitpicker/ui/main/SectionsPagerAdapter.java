@@ -8,8 +8,8 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentPagerAdapter;
 
-import com.example.baitpicker.Fragment1;
-import com.example.baitpicker.Fragment2;
+import com.example.baitpicker.explore.Fragment1;
+import com.example.baitpicker.picker.Fragment2;
 import com.example.baitpicker.R;
 
 /**

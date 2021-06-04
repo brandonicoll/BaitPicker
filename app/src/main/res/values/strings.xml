@@ -2,4 +2,9 @@
     <string name="app_name">BaitPicker</string>
     <string name="tab_text_1">Explore</string>
     <string name="tab_text_2">Bait Picker</string>
+    <string name="email_required">Email is required</string>
+    <string name="valid_email">Must be valid email</string>
+    <string name="pass_required">Password is required</string>
+    <string name="pass_min">Minimum length must be 6</string>
+    <string name="Exitapp">Do you want to exit?</string>
 </resources>
