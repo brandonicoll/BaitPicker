@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "25598812396",
+    "project_id": "baitpicker-60293",
+    "storage_bucket": "baitpicker-60293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25598812396:android:9b1f828018bc91267f05c9",
+        "android_client_info": {
+          "package_name": "com.example.baitpicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25598812396-3abo4oavv9o9sjg3037j4h2ndam82b2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLlr_KgNeZN_UXui85qkwWkRQ-lvuD03Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25598812396-3abo4oavv9o9sjg3037j4h2ndam82b2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
