@@ -99,7 +99,7 @@ public class Login_main extends AppCompatActivity implements View.OnClickListene
     public void onClick(View v) { //onclick for this activity
         switch (v.getId()) {
             case R.id.register:
-                //startActivity(new Intent(this, RegisterUser.class));
+                startActivity(new Intent(this, RegisterUser.class));
                 break;
             case R.id.loginBTN:
                 userLogin();
