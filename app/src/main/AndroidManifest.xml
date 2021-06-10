@@ -21,6 +21,7 @@
         </activity>
         <activity android:name=".login.RegisterUser" />
         <activity android:name=".MainActivity" />
+        <activity android:name=".login.Splash_Activity" />
     </application>
 
 </manifest>

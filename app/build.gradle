@@ -65,4 +65,6 @@ dependencies {
 
     implementation 'com.mcxiaoke.volley:library:1.0.19'
     implementation 'com.facebook.android:facebook-share:[4,5)'
+
+    implementation('pl.droidsonroids.gif:android-gif-drawable:1.2.19')
 }

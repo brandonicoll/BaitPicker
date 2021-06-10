@@ -148,7 +148,7 @@ public class Login_main extends AppCompatActivity implements View.OnClickListene
                 if (task.isSuccessful()){
                     //Toast.makeText(Login_main.this, SuccessGoogle, Toast.LENGTH_LONG).show();
                     FirebaseUser user = mAuth.getCurrentUser();
-                    //startActivity(new Intent(Login_main.this, Splash_Activity.class));
+                    startActivity(new Intent(Login_main.this, Splash_Activity.class));
                 }
                 else {
                     Toast.makeText(Login_main.this, "Unsuccessful", Toast.LENGTH_LONG).show();
@@ -231,7 +231,7 @@ public class Login_main extends AppCompatActivity implements View.OnClickListene
                         loginPrefsEditor.commit();
                     }
                     //Toast.makeText(Login_main.this, success_log, Toast.LENGTH_LONG).show();
-                    //startActivity(new Intent(Login_main.this, Splash_Activity.class));
+                    startActivity(new Intent(Login_main.this, Splash_Activity.class));
                 }
                 else {
                     Toast.makeText(Login_main.this, "Google account already linked", Toast.LENGTH_LONG).show();
